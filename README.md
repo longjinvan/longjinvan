@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/longjinvan/count.svg) visitors. Thank you ✿✿ヽ(°▽°)ノ✿
 
