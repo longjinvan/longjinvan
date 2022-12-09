@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 You are my ![Visitor Count](https://profile-counter.glitch.me/longjinvan/count.svg) visitors. Thank you ✿✿ヽ(°▽°)ノ✿
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longjinvan&layout=compact&theme=tokyonight)
 ![Long Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=longjinvan&show_icons=true&theme=tokyonight)
 
 
